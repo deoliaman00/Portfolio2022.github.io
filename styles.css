@@ -189,7 +189,7 @@ aside:hover div {
 }
 .hero_image {
   height: 380px;
-  width: 350px;
+  width: 380px;
 }
 .hero_image img {
   height: 100%;
@@ -655,4 +655,41 @@ footer a:hover {
   section {
     padding: 80px 2%;
   }
+}
+
+.footer-div{
+  background-color: #262525;
+  color:#fff;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.intern-info{
+  text-align: left;
+  font-style: italic;
+  font-size: 20px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.intern-heading{
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+
+.live-site-div{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 30px;
+  align-items: center;
+}
+
+.alink{
+  text-decoration: underline;
+  color: blue !important;
+}
+
+.project-head1{
+  font-size: 30px;
 }
