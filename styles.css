@@ -567,10 +567,11 @@ footer a:hover {
     justify-content: center;
   }
   .hero_image {
-    display: none;
+    height: 30%;
+    width: 40%;
   }
   .hero_details {
-    margin-top: 30%;
+ 
     width: 80%;
   }
   .hero_details .links {
@@ -692,4 +693,9 @@ footer a:hover {
 
 .project-head1{
   font-size: 30px;
+}
+
+.coding-profile-div{
+  font-size: 30px;
+  text-decoration: underline;
 }
