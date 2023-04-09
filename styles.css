@@ -345,6 +345,8 @@ body.dark .section_container {
   background: var(--background-aside);
 }
 .section_container {
+  margin-bottom: 20px;
+  margin-top: 20px;
   background-color: white;
   border-radius: 50px;
   padding: 48px;
@@ -699,3 +701,4 @@ footer a:hover {
   font-size: 30px;
   text-decoration: underline;
 }
+
