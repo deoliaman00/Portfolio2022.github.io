@@ -691,6 +691,7 @@ footer a:hover {
 .alink{
   text-decoration: underline;
   color: blue !important;
+  margin-right:30px;
 }
 
 .project-head1{
@@ -702,3 +703,9 @@ footer a:hover {
   text-decoration: underline;
 }
 
+.project_image-2{
+  border: solid 2px !important;
+  height:200px;
+  width: 400px;
+  border-radius: 10px;
+}
