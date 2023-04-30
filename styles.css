@@ -699,10 +699,10 @@ footer a:hover {
 .live-site-div{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+ flex-wrap: wrap;
   margin-top: 30px;
   align-items: center;
-  flex-wrap: wrap;
+  
 }
 
 .alink{
