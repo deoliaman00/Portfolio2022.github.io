@@ -716,8 +716,21 @@ footer a:hover {
 }
 
 .project_image-2{
-  border: solid 2px !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
   height:200px;
   width: 400px;
   border-radius: 10px;
+}
+
+.intern-proj-div{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.intern-div{
+  height:200px;
+  width:200px;
+  margin-right: auto;
 }
