@@ -562,6 +562,15 @@ footer a:hover {
   /* .lighdark{
     left: 50px;
   } */
+    .project_image img {
+  width: 200px !important;
+  /* margin: 0 auto; */
+  border-radius: 0.5rem;
+}
+  .project_image-2{
+    width:200px !important;
+   
+  }
 }
 @media (max-width: 750px) {
   .header {
@@ -611,11 +620,18 @@ footer a:hover {
     gap: 30px;
     /* gap: 20px; */
   }
-  .project_image {
-    width: 100%;
-  }
+
+  .project_image img {
+  width: 200px !important;
+  /* margin: 0 auto; */
+  border-radius: 0.5rem;
+}
   .project_des {
     width: 100%;
+  }
+  .project_image-2{
+    width:200px !important;
+   
   }
   .contact_container {
     display: flex;
@@ -686,6 +702,7 @@ footer a:hover {
   justify-content: space-between;
   margin-top: 30px;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .alink{
