@@ -195,7 +195,7 @@ aside:hover div {
   height: 100%;
   width: 100%;
   border-radius: 50%;
-  box-shadow: 12px 0 #9c9c9c, 24px 0 #c7c7c7, 36px 0 #e8e8e8;
+  
   transition: all 0.3s ease;
 }
 body.dark .hero_image img {
