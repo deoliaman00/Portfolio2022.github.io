@@ -568,7 +568,7 @@ footer a:hover {
   border-radius: 0.5rem;
 }
   .project_image-2{
-    width:200px !important;
+    width:320px !important;
    
   }
  
@@ -631,7 +631,7 @@ footer a:hover {
     width: 100%;
   }
   .project_image-2{
-    width:200px !important;
+    width:320px !important;
    
   }
   .contact_container {
@@ -733,4 +733,5 @@ footer a:hover {
   height:200px;
   width:200px;
   margin-right: auto;
+  margin-bottom: 20px;
 }
